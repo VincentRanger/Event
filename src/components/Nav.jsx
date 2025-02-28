@@ -25,7 +25,7 @@ const Nav = () => {
         </div>
     </div>
 
-    <div className='grid grid-cols-5 mx-30 gap-5 mt-10'>
+    <div className='grid grid-cols-5 mx-20 gap-5 mt-10'>
 <div><img src={a} className='w-fit h-120' /></div>
 <div><img src={b} className='w-fit h-120'/></div>
 <div><img src={c}  className='w-fit h-120' /></div>
