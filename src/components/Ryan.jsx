@@ -40,7 +40,7 @@ const Ryan = () => {
                    <img id='img7' src={pic2} width={500} alt="" />
                </div>
            </div>
-           <div id='foot' className='mt-20 justify-items-center' >
+           <div id='foot' className='mt-20 flex justify-center' >
 <img src={footer} width={900} alt="" />
            </div>
            </>

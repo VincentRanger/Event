@@ -48,9 +48,9 @@ useGSAP(()=>{
   },[])
 
   return (
-    <div className='mt-20 font-serif relative justify-items-center'>
-<h1 id='header' className='text-6xl text-yellow-600'>Intentional Event Design</h1>
-<p id='para' className='tracking-widest opacity-0 mt-4 text-amber-900 uppercase'>Providing Curated Luxury Events for the Pacific NW & Beyond</p>
+    <div className='mt-20 font-serif relative'>
+<h1 id='header' className='flex justify-center text-6xl text-yellow-600'>Intentional Event Design</h1>
+<p id='para' className='flex justify-center tracking-widest opacity-0 mt-4 text-amber-900 uppercase'>Providing Curated Luxury Events for the Pacific NW & Beyond</p>
 <div className='grid grid-cols-6 justify-items-center items-center gap-10 mt-10 mx-10'>
     <div id='logo'><img src={logo1} alt="" /></div>
     <div id='logo'><img src={logo2} alt="" /></div>

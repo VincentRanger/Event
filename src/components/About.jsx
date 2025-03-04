@@ -69,7 +69,7 @@ const About = () => {
                 <p className='uppercase tracking-widest'>are we a good fit ? learn more</p></div>
         </div>
     </div>
-    <div className='mt-20 justify-items-center' >
+    <div className='mt-20 flex justify-center' >
     <img id='foots' src={footer} width={900} alt="" />
                </div>
                </>
