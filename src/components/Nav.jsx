@@ -22,13 +22,13 @@ gsap.to('#card',{
     <div>
         <div className='bg-cover bg-emerald-100 opacity-50 absolute top-39.5 h-105 w-full  overflow-hidden -z-10 '></div>
     <div className='flex font-serif w-full mt-2 items-center font-medium text-emerald-900 tracking-widest'>
-        <div className='flex w-full justify-between uppercase ms-30'>
+        <div className='flex w-full justify-between uppercase mt-12 ms-20'>
             <a href="" className='hover:text-amber-400'>about</a>
             <a href="" className='hover:text-amber-400'>services</a>
             <a href="" className='hover:text-amber-400'>kind words</a>
         </div>
-        <div className='w-full justify-items-center'><img src={logo} alt="" className='w-40' /></div>
-        <div className='flex w-full justify-between me-30  uppercase'>
+        <div className='w-full justify-items-center '><img src={logo} alt="" className='w-40' /></div>
+        <div className='flex w-full justify-between me-20 mt-12 uppercase'>
             <a href="" className='hover:text-amber-400'>gallery</a>
             <a href="" className='hover:text-amber-400'>bubbly bar</a>
             <a href="" className='hover:text-amber-400'>contact</a>

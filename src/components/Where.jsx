@@ -28,19 +28,19 @@ const Where = () => {
       scrollTrigger:'#card1',
       opacity:1,
       duration:1,
-      x:0
+      x:-35
       })
       },[])
 
       useGSAP(()=>{
         gsap.fromTo('#card2',{
           opacity:0,
-          x:-150
+          x:-200
         },{
         scrollTrigger:'#card2',
         opacity:1,
         duration:1,
-        x:0,
+        x:-20,
         delay:0.1
         })
         },[])
