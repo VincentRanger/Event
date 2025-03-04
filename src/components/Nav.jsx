@@ -27,7 +27,7 @@ gsap.to('#card',{
             <a href="" className='hover:text-amber-400'>services</a>
             <a href="" className='hover:text-amber-400'>kind words</a>
         </div>
-        <div className='w-full justify-items-center'><img src={logo} alt="" className='w-40' /></div>
+        <div className='w-full flex justify-center'><img src={logo} alt="" className='w-40' /></div>
         <div className='flex w-full justify-between me-20 mt-12 uppercase'>
             <a href="" className='hover:text-amber-400'>gallery</a>
             <a href="" className='hover:text-amber-400'>bubbly bar</a>
