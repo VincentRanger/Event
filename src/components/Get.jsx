@@ -29,7 +29,7 @@ const Get = () => {
       })
       },[])
   return (
-    <div className='mx-20 bg-white mt-25 font-serif pt-10 pb-10  text-center px-70'>
+    <div className='mx-20 bg-white mt-25 font-serif pt-10 pb-10  text-center shadow-2xl mb-5 px-70'>
  <h1 id='touch' className='text-5xl flex justify-center text-yellow-600'>Get In Touch</h1>
  <div id='field' className='text-start flex-col justify-center mt-10'><label htmlFor="">First & Last Name</label>
  <div className='mt-1'>
