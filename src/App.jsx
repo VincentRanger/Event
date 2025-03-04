@@ -1,5 +1,5 @@
 import './App.css'
-import Nav from './components/nav'
+import Nav from './components/Nav'
 import Intenrional from './components/Intenrional'
 import Story from './components/Story'
 import Brian from './components/Brian'
